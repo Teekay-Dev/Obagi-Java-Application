@@ -1,0 +1,96 @@
+Chapter 1 answers
+Here are the answers to the fill-in-the-blank questions from Chapter 1:
+
+Self-Review Exercises 1.1
+a) Programs.
+b) The input unit, output unit, memory unit, arithmetic and logic unit (ALU), central processing unit (CPU), and secondary storage unit.
+c) Machine language, assembly language, and high-level language.
+d) Compilers.
+e) Android
+f) Beta software i
+g) Accelerometer
+
+1.2 Java Environment
+a) The Java command 
+b) The Javac command
+c) The .java file extension.
+d) The .class file extension.
+e) Bytecode
+
+1.3 Object-Oriented Programming
+a) Hiding
+b) Classes
+c) Object-oriented analysis and design (OOAD).
+d) Inheritance
+e) UML (Unified Modeling Language) 
+f) Attributes of the object’s class.
+
+1.4 Computer Components
+a) Input unit.
+b) Programming.
+c) Assembly language
+d) Output unit 
+e) Memory unit and secondary storage unit 
+f) Arithmetic and logic unit (ALU) 
+g) Central processing unit (CPU)
+h) High-level languages 
+i)  Machine language.
+j) Control unit
+
+1.5 Programming Languages & Internet
+a) The Java programming language 
+b) C initially became widely known as the development language of the UNIX operating system.
+c) The Transmission Control Protocol (TCP) 
+d) The C++ programming language 
+
+1.6 Java Compilation & Execution
+a) Edit, compile, load, verify, and execute.
+b) An integrated development environment (IDE)
+c) The Java Virtual Machine (JVM)
+d) A virtual machine (VM)
+e) The class loader
+f) The bytecode verifier 
+
+1.7 Java Compilation Phases
+i)Compilation Phase – The Java compiler (javac) translates the .java source file into a .class file containing bytecode.
+ii)Execution Phase – The JVM takes the .class file, verifies the bytecode, and interprets or compiles it into native machine code for execution.
+
+1.8 Object-Oriented Concepts Applied to a Wristwatch
+Object: A wristwatch is an object as it has a state and behavior.
+Attributes: Attributes include time, date, color, size, and material.
+Behaviors: Setting the time, showing the current time, switching modes, and activating the alarm.
+Class: A blueprint for different types of watches.
+Inheritance: An alarm clock is a subclass of a regular wristwatch with added functionality.
+Modeling: Using diagrams and structures to represent the watch's functionality.
+Messages: A user interacts with the watch by pressing buttons, sending messages to change settings.
+Encapsulation: Internal mechanisms (like time tracking) are hidden from the user.
+Interface: The watch face provides an interface for displaying time and interacting with buttons.
+Information Hiding: Internal working of how the watch keeps time is hidden from the user.
+
+1.9 Carbon Footprint Calculator
+Visit websites such as TerraPass and Carbon Footprint.
+Research formulas for calculating carbon footprints, including fuel consumption, energy usage, and travel data.
+
+
+1.10 Body Mass Index (BMI) Calculator
+Visit BMI Calculator.
+BMI Formula:
+                                   BMI = weight in kg/(height in meters)^2
+
+Underweight: BMI < 18.5
+Normal weight: 18.5–24.9
+Overweight: 25–29.9
+Obese: BMI ≥ 30
+
+
+1.11 Hybrid Vehicle Attributes
+Attributes of hybrid vehicles include:
+-City MPG & Highway MPG
+-Battery type (Lithium-ion, Nickel-metal hydride)
+-Battery weight & capacity
+-Fuel economy improvement
+-Electric motor power
+-CO₂ emissions reduction
+
+
+1.12 :

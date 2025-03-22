@@ -1,0 +1,129 @@
+Self-Review 
+Exercises 
+2.1
+a) A'{' begins the body of every method, and a  '}'  ends the body of every method.
+b)  if statement 
+c) // begins an end-of-line comment.
+d) Spaces, tabs, and newlines are called white space.
+e) Keywords
+f)  Main.
+g) Methods System.out.print, System.out.println, and System.out.printf 
+
+
+2.2 True/False Statements
+a) False – Comments are ignored by the compiler and do not affect program execution.
+b) True
+c) False – Java is case-sensitive, so number and NuMbEr are different variables.
+d) False – The remainder operator % can be used with floating-point numbers as well as integers.
+e) False – * / % have higher precedence than + -.
+
+2.4 Error Correction
+a) Incorrect  
+if (c < 7); System.out.println("c is less than 7");
+Error: The semicolon (;) after the if statement prematurely terminates
+ the if condition, causing the System.out.println 
+statement to execute regardless of the condition.
+Correct
+if (c < 7) System.out.println("c is less than 7");
+
+b) Incorrect
+if (c => 7) System.out.println("c is equal to or greater than 7");
+Error: The operator => is invalid in Java. The correct
+ operator for "greater than or equal to" is >=.
+ Correct
+if (c >= 7) System.out.println("c is equal to or greater than 7");
+
+2.5 Java Statements
+a) // This program calculates the product of three integers.
+b) Scanner input = new Scanner(System.in);
+c) int x, y, z, result;
+d) System.out.print("Enter the first integer: ");
+e) x = input.nextInt();
+f) System.out.print("Enter the second integer: ");
+g) y = input.nextInt();
+h) System.out.print("Enter the third integer: ");
+i) z = input.nextInt();
+j) result = x * y * z;
+k) System.out.printf("Product is %d%n", result);
+
+
+2.7 Fill in the Blanks
+a) Comments 
+b) An if statement.
+c) Assignment statements.
+d) Division (/) and modulus (%).
+e) The innermost set 
+f)  A variable.
+
+ 
+2.9 True/False
+a) False – Operators follow operator precedence, not strict left-to-right evaluation.
+b) True
+c) False – Multiplication, division, and modulus have higher precedence than addition and subtraction.
+d) True
+
+2.10 Expected Output
+a) x = 2
+b) Value of 2 + 2 is 4
+c) x =
+d) 5 = 5
+
+2.11 Statements that Modify Variables
+Modified variables: a) p = i + j + k + 7; and d) value = input.nextInt();
+
+2.12 Correct Java Expressions for y = ax³ + 7
+Valid statements:
+a) y = a * x * x * x + 7;
+d) y = (a * x) * x * x + 7;
+e) y = a * (x * x * x) + 7;
+
+2.13 Order of Operations
+a) x = 7 + 3 * 6 / 2 - 1; 
+Result: x = 16
+b) x = 2 % 2 + 2 * 2 - 2 / 2; 
+Result: x = 3
+c) x = (3 * 9 * (3 + (9 * 3 / 3))); 
+Result: x = 324
+
+
+2.19 
+The code uses the %n format specifier to insert
+ a new line at the end of each printed string. 
+The output will be:
+
+*
+**
+***
+****
+*****
+
+2.20
+The code prints each string on a new line.
+ The output will be:
+*
+***
+*****
+****
+**
+
+2.21
+The code prints:
+
+***************
+on a single line.
+
+2.22
+The complete output is:
+****
+*****
+******
+Each set of asterisks appears on its own line.
+
+2.23
+The output will be:
+*
+***
+*****
+
+2.25
+
